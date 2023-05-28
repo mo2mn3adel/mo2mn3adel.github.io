@@ -16,7 +16,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 150px;
+    padding: 10px 200px;
 
 }
 
@@ -40,5 +40,16 @@ header {
 
 .Navigation a:hover{
     color: rgb(83, 31, 126);
+
+}
+
+section {
+    padding: 100px 200px;
+}
+.main {
+    width: 100px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
 
 }
