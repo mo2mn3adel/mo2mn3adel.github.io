@@ -32,8 +32,8 @@ header {
 .Navigation a {
     color: rgb(52, 70, 173);
     text-decoration: none;
-    font-weight: 500;
     font-size: 1.1em;
+    font-weight: 500;
     padding-left: 30px;
 
 }
@@ -47,9 +47,10 @@ section {
     padding: 100px 200px;
 }
 .main {
-    width: 100px;
+    width: 100%;
     min-height: 100vh;
     display: flex;
     align-items: center;
 
 }
+
