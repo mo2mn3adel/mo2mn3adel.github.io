@@ -22,7 +22,7 @@ header {
 
 .logo{
     text-decoration: none;
-    color:rgb(52, 70, 173);
+    color:rgb(40, 18, 75);
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
@@ -30,7 +30,7 @@ header {
 }
 
 .Navigation a {
-    color: rgb(52, 70, 173);
+    color: rgb(40, 18, 75);
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
@@ -51,6 +51,27 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
+    background: url(images/Slide1.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 
 }
 
+.main h2 {
+    color: rgb(42, 18, 80);
+    font-size: 1.9em;
+    font-weight: 500;
+
+
+}
+
+.main h2 span {
+    display: inline-block;
+    margin-top: 10px;
+    color:rgb(31, 17, 53);
+    font-size: 2em;
+    font-weight: 600;
+    
+}
