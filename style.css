@@ -264,10 +264,10 @@ section {
     color: rgb(227, 223, 235);
     background-color: rgb(85, 64, 134);
     text-decoration: none;
-    font-size: 1em;
+    font-size: 0.8em;
     font-weight: 600;
     display: inline-block;
-    padding: 10px 20px;
+    padding: 9px 15px;
     letter-spacing: 1px;
     border-radius: 30px;
     margin-bottom: 10px;
